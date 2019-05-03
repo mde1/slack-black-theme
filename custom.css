@@ -19,7 +19,8 @@ limitations under the License.
    --primary: #09F;
    --text: #DDD;
    --background: #111;
-   --background-elevated: #021560;
+   --background-tag: #021560;
+   --background-elevated: #3B4048;
 
    /* These should be less important: */
    --background-hover: rgba(255, 255, 255, 0.1);
